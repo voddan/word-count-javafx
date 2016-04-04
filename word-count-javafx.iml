@@ -11,5 +11,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: no.tornado:fxlauncher:1.0.9" level="project" />
   </component>
 </module>

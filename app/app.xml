@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Application uri="https://github.com/voddan/word-count-javafx/app" launch="word_counter_javafx.Main">
+    <lib file="word-count-javafx-1.0-SNAPSHOT.jar" checksum="251110378" size="6397"/>
+    <updateText>Updating...</updateText>
+    <updateLabelStyle>-fx-font-weight: bold;</updateLabelStyle>
+    <progressBarStyle>-fx-pref-width: 200;</progressBarStyle>
+    <wrapperStyle>-fx-spacing: 10; -fx-padding: 25;</wrapperStyle>
+</Application>
